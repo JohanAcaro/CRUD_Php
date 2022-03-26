@@ -1,8 +1,8 @@
 # T2_H2_Johan_Acaro_Programacion
 ADMIN
-admin@admin.com
-admin
+correo: admin@admin.com
+contraseña: admin
 
 USUARIO
-usuario@usuario.com
-usuario
+correo: usuario@usuario.com
+contraseña: usuario
